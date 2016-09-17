@@ -48,12 +48,14 @@ a:hover   { color: #000; text-decoration: underline; }
 .site-title:visited {
   display: block;
   color: white;
-  font-size: 250%;
+  font-size: 300%;
   letter-spacing: -1px;
   float: left;
   /*line-height: 56px;*/
   position: relative;
   z-index: 1;
+  font-family: inherit;
+  margin-top: 2%;
 }
 
 .site-subtitle {
@@ -73,6 +75,8 @@ a:hover   { color: #000; text-decoration: underline; }
   margin-left: 40px;
   color: #727272;
   letter-spacing: -.5px;
+  font-size: 220%;
+  font-weight: bold;
 }
 
 /* Site footer */
@@ -149,7 +153,9 @@ a:hover   { color: #000; text-decoration: underline; }
 }
 
 .about {
-  font-family: "Lucidia Sans"
+  font-family: "Lucidia Sans";
+  font-size: 150%;
+  letter-spacing: 1px;
 }
 
 /* Home styles */
@@ -157,14 +163,18 @@ a:hover   { color: #000; text-decoration: underline; }
 
 .home h1 { margin-bottom: 25px; }
 
-.posts { list-style-type: none; }
-
-.posts li { margin-bottom: 30px; }
+.posts li { margin-bottom: 30px; list-style-type: none;}
 
 .posts .post-link {
-  font-size: 20px;
-  letter-spacing: -1px;
+  font-size: 30px;
+  /*letter-spacing: -1px;*/
+  font-size: 35px;
+  font-weight: initial;
   /*line-height: 1;*/
+}
+
+.post-link {
+  color: #292f61;;
 }
 
 .posts .post-date {
@@ -173,7 +183,7 @@ a:hover   { color: #000; text-decoration: underline; }
   color: #818181;
 }
 
-.post-link h2 { margin-top: 10px }
+/*.post-link h2 { margin-top: 10px }*/
 
 
 /* Post styles */
