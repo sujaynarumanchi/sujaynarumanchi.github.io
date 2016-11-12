@@ -1,0 +1,18 @@
+
+<header class="site-header">
+    <div class="container">
+        <div class="col-md-4">
+            <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        </div>
+        <div class="col-md-8">
+          <nav class="site-nav">
+            <div class="trigger">
+              <a class="page-link" href="{{ site.baseurl }}/"><img class="img_icons" src="/assets/img/pencil_inverted.svg"/></a>
+              {% for page in site.pages %}
+                {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}"><img class="img_icons" src="{{ page.display_img }}"/></a>{% endif %}
+              {% endfor %}
+            </div>
+          </nav>
+        </div>
+    </div>
+</header>
