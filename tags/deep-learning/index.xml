@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sujay Narumanchi</title>
+    <link>https://sujaynarumanchi.github.io/tags/deep-learning/index.xml</link>
+    <description>Recent content on Sujay Narumanchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sujay Narumanchi</copyright>
+    <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep Learning based Large Scale Visual Search and Recommender System</title>
+      <link>https://sujaynarumanchi.github.io/project/visual_search/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujaynarumanchi.github.io/project/visual_search/</guid>
+      <description>&lt;p&gt;Check out the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.flipkart.android&amp;amp;hl=en&#34;&gt;Flipkart App&lt;/a&gt; to try it out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning based Product Matching</title>
+      <link>https://sujaynarumanchi.github.io/project/duplicate_detection/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujaynarumanchi.github.io/project/duplicate_detection/</guid>
+      <description>&lt;p&gt;Siamese Network that maps similar products closer and dissimilar ones far apart in a metric space&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Network based Recommender System for e-commerce</title>
+      <link>https://sujaynarumanchi.github.io/project/nnrm/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujaynarumanchi.github.io/project/nnrm/</guid>
+      <description>&lt;p&gt;A recommendation engine that is a hybrid of collaborative filtering and content based techniques&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semi-Automatic Background Removal Tool</title>
+      <link>https://sujaynarumanchi.github.io/project/background_removal/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujaynarumanchi.github.io/project/background_removal/</guid>
+      <description>&lt;p&gt;Check out the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.flipkart.android&amp;amp;hl=en&#34;&gt;Flipkart App&lt;/a&gt; to try it out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Semantic Embeddings for e-commerce products</title>
+      <link>https://sujaynarumanchi.github.io/project/visual_semantic_embeddings/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujaynarumanchi.github.io/project/visual_semantic_embeddings/</guid>
+      <description>&lt;p&gt;Visual Semantic Embeddings&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
