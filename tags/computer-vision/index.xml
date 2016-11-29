@@ -15,7 +15,8 @@
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sujaynarumanchi.github.io/project/visual_search/</guid>
-      <description>&lt;p&gt;Check out the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.flipkart.android&amp;amp;hl=en&#34;&gt;Flipkart App&lt;/a&gt; to try it out.&lt;/p&gt;
+      <description>&lt;p&gt;Check out the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.flipkart.android&amp;amp;hl=en&#34;&gt;Flipkart App&lt;/a&gt; to try it out.
+&lt;a href=&#34;https://sujaynarumanchi.github.io/resources/Slashn2015Presentation.pdf&#34;&gt;Slides&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=INiDn5Nj1zQ&amp;amp;feature=youtu.be&amp;amp;list=PLNrODmzoJwwqgQIisV9K1Pi_9dzWllhDh&#34;&gt;Link&lt;/a&gt; for the talk by my team at SlashN2015.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +36,7 @@
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sujaynarumanchi.github.io/project/doc_ocr/</guid>
-      <description>&lt;p&gt;Check out the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.flipkart.android&amp;amp;hl=en&#34;&gt;Flipkart App&lt;/a&gt; to try it out.&lt;/p&gt;
+      <description>&lt;p&gt;Automatic Document Verification using OCR + substring match&lt;/p&gt;
 </description>
     </item>
     
@@ -45,7 +46,7 @@
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sujaynarumanchi.github.io/project/background_removal/</guid>
-      <description>&lt;p&gt;Check out the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.flipkart.android&amp;amp;hl=en&#34;&gt;Flipkart App&lt;/a&gt; to try it out.&lt;/p&gt;
+      <description>&lt;p&gt;A Semi-Automatic background removal tool which uses Geodesic Distance Transform. Code to be released soon.&lt;/p&gt;
 </description>
     </item>
     
@@ -55,7 +56,8 @@
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sujaynarumanchi.github.io/project/visual_semantic_embeddings/</guid>
-      <description>&lt;p&gt;Visual Semantic Embeddings&lt;/p&gt;
+      <description>&lt;p&gt;Multimodal Neural Network that embeds images and associated text into the same metric space.
+More details coming soon.&lt;/p&gt;
 </description>
     </item>
     
