@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sujay Narumanchi</copyright>
-    <lastBuildDate>Fri, 18 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce</title>
+      <link>https://sujaynarumanchi.github.io/publication/visual_search_patent/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sujaynarumanchi.github.io/publication/visual_search_patent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hardware accelerator for real-time image resizing</title>
